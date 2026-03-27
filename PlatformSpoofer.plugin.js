@@ -1,6 +1,6 @@
 /**
  * @name PlatformSpoofer
- * @version 1.8.9
+ * @version 1.9
  * @author Kazed
  * @description Spoof what platform or device you're on
  * @authorLink https://github.com/KazedDev
