@@ -4,9 +4,9 @@
  * @author Kazed
  * @description Spoof what platform or device you're on
  * @authorLink https://github.com/KazedDev
- * @website https://github.com/KazedDev/PlatformSpoofer
- * @source https://github.com/KazedDev/PlatformSpoofer/blob/main/PlatformSpoofer.plugin.js
- * @updateUrl https://raw.githubusercontent.com/KazedDev/PlatformSpoofer/main/PlatformSpoofer.plugin.js
+ * @website https://github.com/KazedDev/Discord_PlatformSpoofer
+ * @source https://github.com/KazedDev/Discord_PlatformSpoofer/blob/main/PlatformSpoofer.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/KazedDev/Discord_PlatformSpoofer/main/PlatformSpoofer.plugin.js
  * @donate https://ko-fi.com/kazeddev
  */
 
